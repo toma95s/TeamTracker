@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/toma95s/TeamTracker/issues"
   },
-  "homepage": "https://github.com/toma95s/TeamTracker#readme"
+  "homepage": "https://github.com/toma95s/TeamTracker#readme",
+  "dependencies": {
+    "inquirer": "^8.2.2"
+  }
 }
