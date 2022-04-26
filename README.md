@@ -4,7 +4,11 @@ This app uses Node, NPM, Inquirer and Email-Validation. User will follow prompts
 
 <img width="80" alt = "MIT" src = https://img.shields.io/badge/License-MIT-yellow> <img width="65" alt = "JavaScript" src = https://img.shields.io/badge/-JavaScript-red> <img width="50" alt = NodeJs src = https://img.shields.io/badge/-NodeJs-orange> <img width="50" alt = Inquirer src = https://img.shields.io/badge/-Inquirer-blue>
 
+<img width="80" alt = DeployedLink src =https://img.shields.io/badge/-Deployed%20Link-purple> 
+https://github.com/toma95s/TeamTracker <br>
 
+<img width="80" alt = githublink src = https://img.shields.io/badge/-GitHub%20Link-pink> 
+https://github.com/toma95s/TeamTracker <br>
 
 Here you can see the prompts for the questions used for the command line prompts. 
 
