@@ -1,7 +1,7 @@
 {
   "name": "teamtracker",
   "version": "1.0.0",
-  "description": "",
+  "description": "This app uses Node, NPM, Inquirer and Email-Validation. User will follow prompts then recieve a webpage with their teams information. This is a command line based project.",
   "main": "script.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -19,5 +19,9 @@
   "homepage": "https://github.com/toma95s/TeamTracker#readme",
   "dependencies": {
     "inquirer": "^8.2.2"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {}
 }
