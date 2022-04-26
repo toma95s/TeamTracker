@@ -6,7 +6,7 @@ This app uses Node, NPM, Inquirer and Email-Validation. User will follow prompts
 
 <br>
 
-<img width="80" alt = DeployedLink src =https://img.shields.io/badge/-Deployed%20Link-purple>https://github.com/toma95s/TeamTracker 
+<img width="80" alt = DeployedLink src =https://img.shields.io/badge/-Deployed%20Link-purple>https://toma95s.github.io/TeamTracker/ 
 
 <br>
 
