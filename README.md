@@ -11,14 +11,14 @@ Here you can see the prompts for the questions used for the command line prompts
 <img width="365" alt="JavaScript Screenshot to show functions" src="https://user-images.githubusercontent.com/101033224/165221817-8d0e31bc-33a9-4929-9ddb-0006a0d12843.png">
 
 
-User Story
+<h1><strong>User Story</strong></h1>
 
-<strong>AS A manager </strong>
+AS A manager 
 I WANT to generate a webpage that displays my team's basic info
 SO THAT I have quick access to their emails and GitHub profiles
 
 
-<strong> Acceptance Criteria </strong>
+<h1><strong> Acceptance Criteria </strong></h1>
 
 
 GIVEN a command-line application that accepts user input
@@ -40,7 +40,7 @@ WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated
 
 
-MIT License
+<h1> <strong> MIT License </h1></strong>
 
 Copyright (c) 2022 Asika Habib
 
